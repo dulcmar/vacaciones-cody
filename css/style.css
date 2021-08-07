@@ -16,7 +16,7 @@ section{
 }
 
 .cursos div{
-  background-color: black;
+  background-color: rgb(17, 172, 211);
   color: white;
   max-width: 200px;
   display: inline-block;
